@@ -1,0 +1,20 @@
+pour le tableau d'amortissement
+
+* Mois
+>>> i
+
+* Mensualité
+>>> une somme
+
+* Intérêts
+>>> s*tm = i1(pour ce moi-ci)
+
+* Capital remboursé
+>>> cr=m-i
+
+* Capital restant dû
+>>> crd=s-cr
+
+* Intérêt remboursés
+>>> i1
+>>> moi suivant = i1+i2
